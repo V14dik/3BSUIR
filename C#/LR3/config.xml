@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <appSettings>
+        <sourceFolder>C:\PTUIR\3 semestr\ISP\Lr3\archive</sourceFolder>
+        <targetFolder>C:\PTUIR\3 semestr\ISP\Lr3\archive</targetFolder>
+        <extractFolder>C:\PTUIR\3 semestr\ISP\Lr3\extract</extractFolder>
+    </appSettings>
+</Options>
