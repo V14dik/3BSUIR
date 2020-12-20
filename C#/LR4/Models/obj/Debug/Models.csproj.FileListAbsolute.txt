@@ -1,0 +1,6 @@
+C:\PTUIR\3 semestr\ISP\Lr4\Models\bin\Debug\Models.dll
+C:\PTUIR\3 semestr\ISP\Lr4\Models\bin\Debug\Models.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\PTUIR\3 semestr\ISP\Lr4\Models\obj\Debug\Models.dll
+C:\PTUIR\3 semestr\ISP\Lr4\Models\obj\Debug\Models.pdb
+C:\PTUIR\3 semestr\ISP\Lr4\Models\obj\Debug\Models.csprojAssemblyReference.cache
